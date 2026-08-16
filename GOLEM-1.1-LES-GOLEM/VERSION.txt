@@ -1,0 +1,6 @@
+GOLEM 1.1 — LES GOLEM EDITION
+Serveur verrouillé : 1205745884046958622
+Application : 1536780542589141003
+Architecture : Node.js + Discord.js + Express + PostgreSQL
+Interface : Control Panel Web
+Statut projet : bêta hébergeable / mode prudent par défaut

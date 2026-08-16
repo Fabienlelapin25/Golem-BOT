@@ -1,0 +1,32 @@
+GOLEM 1.1 — LES GOLEM EDITION
+==============================
+
+POUR GITHUB :
+
+1. Décompresse l'archive.
+2. Ouvre le dossier GOLEM-1.1-LES-GOLEM.
+3. Sur GitHub, crée un dépôt PRIVÉ vide.
+4. Fais glisser TOUS les fichiers et dossiers contenus dans GOLEM-1.1-LES-GOLEM.
+5. Clique sur Commit changes.
+
+IMPORTANT :
+- Il n'y a volontairement aucun vrai .env dans ce dossier.
+- Ne mets jamais ton DISCORD_TOKEN sur GitHub.
+- Le token sera ajouté seulement dans les variables d'environnement Koyeb.
+- DATABASE_URL sera ajouté seulement dans Koyeb.
+
+VARIABLES MINIMALES KOYEB :
+DISCORD_TOKEN = ton token Discord actuel
+DATABASE_URL  = URL PostgreSQL Neon
+DATABASE_SSL  = true
+
+CLIENT_ID et GUILD_ID Les Golem sont déjà prévus dans le code.
+
+COMMANDE DE DÉMARRAGE :
+npm start
+
+APRÈS DÉPLOIEMENT :
+Dans Discord, utilise :
+/golem panel
+
+Le bouton ouvre le Control Panel privé.
